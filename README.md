@@ -157,19 +157,6 @@ Step through the modular cells to experiment with chunk sizes, retrieval queries
 
 ---
 
-# 📈 Results & Key Accomplishments
-
-* **⚡ Ultra-Low Latency Inference**:
-  * Sub-2-second generation time for comprehensive 4-meal daily plans using Groq's high-speed LPU infrastructure.
-* **🎯 High Macro Adherence**:
-  * Generated diet plans adhere to Mifflin-St Jeor caloric and macronutrient targets within a **$\pm 5\%$ margin of error**.
-* **📖 Zero-Hallucination Recipe Grounding**:
-  * Every meal is strictly grounded in the ingested Gorilla Fitness Recipe Book, including exact ingredient portions and book page references (e.g., *Protein Pancakes on Page 31*, *Quinoa Chicken Salad on Page 5*).
-* **🛡️ 100% Robust JSON Schema Parsing**:
-  * Implemented multi-pass parsing and auto-deserialization to guarantee valid data extraction and eliminate parsing failures.
-
----
-
 # 🔮 Future Improvements
 
 * **🔄 Multi-Day & Weekly Meal Plan Cycles**: Extend generation from 1-day schedules to full 7-day cyclical diet plans with variety constraints.
