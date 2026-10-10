@@ -155,17 +155,6 @@ Step through the modular cells to experiment with chunk sizes, retrieval queries
 
 ---
 
-# 📸 Demo
-
-### 1. Trainee Profiling & Nutritional Dashboard
-> Trainee enters physical attributes, and the system automatically calculates calibrated BMR, TDEE, and macro targets (Protein, Carbs, Fats).
-
-### 2. Streamlit Real-Time Diet Plan Generation
-> The Groq LLM streams the synthesized meal schedule with prep notes, ingredients, and exact recipe page references from the Gorilla Fitness Recipe Book.
-
-### 3. Exported Branded PDF Plan
-> Ready-to-print PDF dossier with custom header, macro summaries, tables, and nutritional coach advice.
-
 ---
 
 # 📈 Results & Key Accomplishments
